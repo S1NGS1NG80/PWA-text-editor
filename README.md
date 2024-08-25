@@ -23,8 +23,8 @@ You can start typing and adding text right away, it will keep the notes online a
 Sean Singer and Mod 19 mini-project codes
 
 ## Screenshots
-![Deployed on browser](<Screenshot 2024-08-25 at 18.08.27.png>)<br>
-![Deployed as PWA](<Screenshot 2024-08-25 at 18.09.36.png>)<br>
+![Deployed on the browser](<client/src/images/Screenshot 2024-08-25 at 18.08.27.png>)<br>
+![Deployed as PWA](<client/src/images/Screenshot 2024-08-25 at 18.09.36.png>)<br>
 
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
